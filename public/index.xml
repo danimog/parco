@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Titolo Lavoro</title>
+      <link>/lavori/titolo_lavoro/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/lavori/titolo_lavoro/</guid>
+      <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
+    </item>
+    
+    <item>
       <title>Lavori</title>
       <link>/lavori/lavori/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
